@@ -1,0 +1,8 @@
+nc 117.50.13.213 12345
+
+下载地址
+备用下载地址（密码：2g3b）
+
+1.一个有用的地址https://github.com/aaronice/tensorflow-animals；
+
+2.config.diff_chars的初始值为1024，可能会视竞赛情况上调

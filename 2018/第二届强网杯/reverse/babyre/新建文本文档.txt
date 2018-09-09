@@ -1,0 +1,2 @@
+$ cat "encrypted file name" | base64
+C+ij1vcZGUwSQgBUPUG7FuVqh+zQ6/piPc5hHg7JEe1odD99
