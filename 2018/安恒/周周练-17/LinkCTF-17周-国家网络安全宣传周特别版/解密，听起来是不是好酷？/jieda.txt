@@ -1,0 +1,2 @@
+http://www.atool.org/quality_factor.php,分解质因数。得到101999*966233
+然后cmd5加密一下：d450209323a847c8d01c6be47c81811a
