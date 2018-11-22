@@ -1,0 +1,3 @@
+y = 17*x-8 flag{szzyfimhyzd}
+
+´ð°¸¸ñÊ½£ºflag{********}
